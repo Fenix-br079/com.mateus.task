@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "com.mateus.task.app-mergeDebugResources-48:/layout/fragment_recover_account.xml",
+        "source": "com.mateus.task.app-main-51:/layout/fragment_recover_account.xml"
+    },
+    {
+        "merged": "com.mateus.task.app-mergeDebugResources-48:/layout/fragment_todo.xml",
+        "source": "com.mateus.task.app-main-51:/layout/fragment_todo.xml"
+    },
+    {
+        "merged": "com.mateus.task.app-mergeDebugResources-48:/layout/fragment_doing.xml",
+        "source": "com.mateus.task.app-main-51:/layout/fragment_doing.xml"
+    },
+    {
+        "merged": "com.mateus.task.app-mergeDebugResources-48:/layout/fragment_splash.xml",
+        "source": "com.mateus.task.app-main-51:/layout/fragment_splash.xml"
+    },
+    {
+        "merged": "com.mateus.task.app-mergeDebugResources-48:/layout/fragment_register.xml",
+        "source": "com.mateus.task.app-main-51:/layout/fragment_register.xml"
+    },
+    {
+        "merged": "com.mateus.task.app-mergeDebugResources-48:/layout/fragment_home.xml",
+        "source": "com.mateus.task.app-main-51:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "com.mateus.task.app-mergeDebugResources-48:/layout/fragment_done.xml",
+        "source": "com.mateus.task.app-main-51:/layout/fragment_done.xml"
+    },
+    {
+        "merged": "com.mateus.task.app-mergeDebugResources-48:/layout/fragment_login.xml",
+        "source": "com.mateus.task.app-main-51:/layout/fragment_login.xml"
+    },
+    {
+        "merged": "com.mateus.task.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "com.mateus.task.app-main-51:/layout/activity_main.xml"
+    }
+]

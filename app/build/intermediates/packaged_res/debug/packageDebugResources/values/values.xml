@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="color_default">#00796B</color>
+    <color name="color_default_dark">#004D40</color>
+    <color name="gray">#FF757575</color>
+    <color name="green">#FF2E7D32</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Task</string>
+    <string name="button_login">Entrar</string>
+    <string name="button_send">Enviar</string>
+    <string name="hint_email">Digite seu e-mail</string>
+    <string name="hint_password">Digite sua senha</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_password">Senha</string>
+    <string name="status_task_doing">Fazendo</string>
+    <string name="status_task_done">Concluído</string>
+    <string name="status_task_todo">A fazer</string>
+    <string name="student_name">Mateus Henrique</string>
+    <string name="text_create_account">Criar conta</string>
+    <string name="text_recover_account">Recuperar conta</string>
+    <string name="text_recover_message">Informe seu e-mail de cadastro para receber um link de alteração de senha.</string>
+    <style name="Base.Theme.Task" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/color_default</item>
+        <item name="colorPrimaryVariant">@color/color_default_dark</item>
+        <item name="android:statusBarColor">@color/color_default_dark</item>
+        <item name="android:windowBackground">@color/color_default</item>
+    </style>
+    <style name="ButtonStyle" parent="Widget.Material3.Button">
+        <item name="android:background">@drawable/bg_btn</item>
+        <item name="backgroundTint">@null</item>
+        <item name="android:textColor">@color/color_default</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+    <style name="CustomTabLayout" parent="TextAppearance.Design.Tab">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="EditTextStyle">
+        <item name="android:background">@drawable/bg_edit_text</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textColorHint">@color/gray</item>
+    </style>
+    <style name="Theme.Task" parent="Base.Theme.Task"/>
+</resources>
